@@ -12,7 +12,7 @@ d’ajouter une annonce avec une simple adresse courriel.
 
 mettre en place des messages de confirmation
 
-securité (quand tout le cud est valide):
+securité (quand tout le crud est valide):
 	-> pas modifiable sans le lien 
 	-> chaque annonce a un id unique (pour afficher dans un form de modif)
 
