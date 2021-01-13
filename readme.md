@@ -26,30 +26,30 @@ VALIDATION
 
 Les étapes :
 
-[-] Définir l'arborescence de vos dossiers
-[-] Définir les routes nécessaire à votre projet
+[] Définir l'arborescence de vos dossiers
+[] Définir les routes nécessaire à votre projet
 [x] Mettre en place le .gitignore
 
-[-] Réaliser les wireframe de toutes vos pages et emails
-[-] Réaliser les vues nécessaires pour vos différentes pages
-[-] Réaliser le MJML de vos mails
-[-] Réaliser le code pour générer le
+[] Réaliser les wireframe de toutes vos pages et emails
+[] Réaliser les vues nécessaires pour vos différentes pages
+[] Réaliser le MJML de vos mails
+[] Réaliser le code pour générer le
 
-[-] Créer le MCD
-[-] Créer le MLD
-[-] Créer le modèle Physique de données
+[] Créer le MCD
+[] Créer le MLD
+[] Créer le modèle Physique de données
 
-[-] Installer Composer sous Windows
-[-] Avec Composer généré l'Autoload (PSR-4)
-[-] Mettre en place le Router et ajouter vos routes
-[-] Créer les contrôleurs et méthodes nécessaire à vos routes
+[] Installer Composer sous Windows
+[] Avec Composer généré l'Autoload (PSR-4)
+[] Mettre en place le Router et ajouter vos routes
+[] Créer les contrôleurs et méthodes nécessaire à vos routes
 
-[-] Installer vos dépendances PHP : AltoRouter, Twig, MJML, MJML-PHP, mPDF
-[-] Installer nodejs et npm
-[-] Installer vos dépendances front : sass / Less
+[] Installer vos dépendances PHP : AltoRouter, Twig, MJML, MJML-PHP, mPDF
+[] Installer nodejs et npm
+[] Installer vos dépendances front : sass / Less
 
-[-] creation (modèles) BDD CRUD
-[-] Pour chaque méthodes définir les variables nécessaires à la vue
+[] creation (modèles) BDD CRUD
+[] Pour chaque méthodes définir les variables nécessaires à la vue
 
 ---
 
