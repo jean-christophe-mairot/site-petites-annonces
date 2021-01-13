@@ -48,9 +48,43 @@ CARDS NOUVELLE ANNONCE (formulaire)
     * Titre nom de l'annonce
     * Titre description
     * Paragraphe (description) apparition de la div
-    * Faire une generation d'un pdf a partir du formulaire
+    * Faire une generation d'un pdf a partir du formulaire (MPDF)
+    * mail du user
     * Bouton envoyer
     * Le prix
+
+BDD: petites_annonces
+Table : annonces
+
+- Nom du produit
+- Categorie (option)
+- Description
+- Prix
+- Adresse mail
+- Password de suppression
+- Une image
+- Un bouton suppression
+- Un bouton affiche le detail (div qui ce deplie)
+
+---
+
+TECHNOLOGIES
+
+- Utilisation de MPDF pour la gestion des gé nérations de pdf
+- Utilisation de l'architecture MVC
+- Utilisation de SASS ou/et Less (nodejs,Json )
+
+LIENS UTILES :
+
+https://online.visual-paradigm.com/fr/
+https://getbootstrap.com/
+https://codepen.io/
+
+SOFT :
+
+PHOTOSHOP
+VCODE
+WORKBENCH
 
 RECHERCHES:
 
