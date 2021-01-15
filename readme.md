@@ -30,16 +30,16 @@ Les étapes :
 - [ ] Définir les routes nécessaire à votre projet
 - [x] Mettre en place le .gitignore
 
-- [ ] Réaliser les wireframe de toutes vos pages et emails
+- [x] Réaliser les wireframe de toutes vos pages et emails
 - [ ] Réaliser les vues nécessaires pour vos différentes pages
 - [ ] Réaliser le MJML de vos mails
-- [ ] Réaliser le code pour générer le
+- [ ] Réaliser le code pour générer le PDF
 
-- [ ] Créer le MCD
-- [ ] Créer le MLD
-- [ ] Créer le modèle Physique de données
+- [x] Créer le MCD
+- [x] Créer le MLD
+- [x] Créer le modèle Physique de données
 
-- [ ] Installer Composer sous Windows
+- [x] Installer Composer sous Windows
 - [ ] Avec Composer généré l'Autoload (PSR-4)
 - [ ] Mettre en place le Router et ajouter vos routes
 - [ ] Créer les contrôleurs et méthodes nécessaire à vos routes
@@ -118,7 +118,7 @@ LIENS UTILES :
 - https://online.visual-paradigm.com/fr/
 - https://getbootstrap.com/
 - https://codepen.io/
--
+- https://github.com/paulkanyinda/tp-app-poo/blob/master/lib/OCFram/Validator.php
 
 ---
 
@@ -143,3 +143,16 @@ Le lazy loading est un point essentiel pour rendre votre site web encore plus pe
 La bouton « Load more » ou en français « charger plus », est à la croisée de la pagination et de l’infinite scroll.
 
 L’idée est de ne faire apparaître qu’un certains nombre d’articles pour un e-commerce ou de contenus dans le cadre d’un webzine ou d’un blog, puis de proposer d’en charger plus. Mais à l’inverse de la pagination, en cliquant sur ce bouton, vous restez sur la même page, qui vient s’étoffer de nouveaux éléments.
+
+ALTOROUTER
+
+AUTOLOADER
+
+- https://jf-blog.fr/utilisation-composer-autoloading/?doing_wp_cron=1610718594.3177969455718994140625
+- https://www.grafikart.fr/tutoriels/router-php-1149
+  dans le termial : composer require symfony/var-dumper --dev
+  php -S localhost:1800 -t public(nom de dossier qui sert de racine)
+
+- mjml : pour la gestion du mail
+
+- ***

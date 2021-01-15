@@ -1,0 +1,12 @@
+<!-- sorte de bootstrap pour les mail -->
+<mjml>
+  <mj-head>
+    <mj-title>Nouvelle Annonce </mj-title>
+    <mj-attributes> </mj-attributes>
+  </mj-head>
+  <mj-body>
+    <mj-section>
+      <mj-column width=""> </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
