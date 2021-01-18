@@ -150,7 +150,7 @@ AUTOLOADER
 
 - https://jf-blog.fr/utilisation-composer-autoloading/?doing_wp_cron=1610718594.3177969455718994140625
 - https://www.grafikart.fr/tutoriels/router-php-1149
-  dans le termial : composer require symfony/var-dumper --dev
+  dans le termial :  
   php -S localhost:1800 -t public(nom de dossier qui sert de racine)
 
 - mjml : pour la gestion du mail
