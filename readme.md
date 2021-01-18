@@ -120,6 +120,10 @@ LIENS UTILES :
 - https://codepen.io/
 - https://github.com/paulkanyinda/tp-app-poo/blob/master/lib/OCFram/Validator.php
 
+  (nouvelle techno)
+
+- https://www.youtube.com/watch?v=D93K7ztR58s&list=PLBq3aRiVuwyx6B9sJip_ZU1lt7jjCwsMJ&index=7&ab_channel=NouvelleTechno
+
 ---
 
 SOFT :
@@ -144,15 +148,27 @@ La bouton « Load more » ou en français « charger plus », est à la croisée
 
 L’idée est de ne faire apparaître qu’un certains nombre d’articles pour un e-commerce ou de contenus dans le cadre d’un webzine ou d’un blog, puis de proposer d’en charger plus. Mais à l’inverse de la pagination, en cliquant sur ce bouton, vous restez sur la même page, qui vient s’étoffer de nouveaux éléments.
 
-ALTOROUTER
+INSTALL :
 
 AUTOLOADER
 
 - https://jf-blog.fr/utilisation-composer-autoloading/?doing_wp_cron=1610718594.3177969455718994140625
 - https://www.grafikart.fr/tutoriels/router-php-1149
-  dans le termial : composer require symfony/var-dumper --dev
+  dans le termial :  
   php -S localhost:1800 -t public(nom de dossier qui sert de racine)
+
+MJML
 
 - mjml : pour la gestion du mail
 
-- ***
+MPDF
+
+- composer require mpdf/mpdf --prefer-lowest (install mpdf version php8 -1)
+
+LESS
+
+- Less : (nodejs installé sur la machine) npm install -g less
+  pour générer le less-->css : lessc (nom du fichier).less > (nom du fichier).css
+- https://tutorialzine.com/2015/07/learn-less-in-10-minutes-or-less
+
+TWIG
