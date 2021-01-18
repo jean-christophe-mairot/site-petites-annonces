@@ -119,8 +119,10 @@ LIENS UTILES :
 - https://getbootstrap.com/
 - https://codepen.io/
 - https://github.com/paulkanyinda/tp-app-poo/blob/master/lib/OCFram/Validator.php
+
   (nouvelle techno)
-- https://www.youtube.com/channel/UCVPd3h_V_hGjMZ8jNMt939Q
+
+- https://www.youtube.com/watch?v=D93K7ztR58s&list=PLBq3aRiVuwyx6B9sJip_ZU1lt7jjCwsMJ&index=7&ab_channel=NouvelleTechno
 
 ---
 
