@@ -1,0 +1,18 @@
+# a ctive le moteur de pour la réécriture d'url
+RewriteEngine on
+
+# condition de réécriture
+# si on ne met rien cela passe en url index.php
+# si on tombe sur un fichier qui n'existe pas on continue la requête
+RewriteCond %{REQUEST_FILENAME} !-f
+
+# si on tombe sur un dossier qui n'existe pas on continue la requête
+RewriteCond %{REQUEST_FILENAME} !-d
+
+# regles de réécriture 
+# tous ce qu'il y a comme parametres ^(.*)$
+# $1 = tous ce qu'il y a entre parenthèses
+# drapeau = [NC,L] 
+# NC= nocase ne fait pas attention à la case
+# L = signifie last on ne cherche pas à faire d'autre requêtes
+RewriteRule ^(.*)$ index.php?url=$1 [NC,L]
