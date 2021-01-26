@@ -153,6 +153,7 @@ INSTALL :
 
 AUTOLOADER
 
+- https://www.youtube.com/watch?v=H5-J5mSXop4&ab_channel=TITOUANTHD
 - https://jf-blog.fr/utilisation-composer-autoloading/?doing_wp_cron=1610718594.3177969455718994140625
 - https://www.grafikart.fr/tutoriels/router-php-1149
   dans le termial :  
