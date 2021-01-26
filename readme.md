@@ -123,6 +123,7 @@ LIENS UTILES :
   (nouvelle techno)
 
 - https://www.youtube.com/watch?v=D93K7ztR58s&list=PLBq3aRiVuwyx6B9sJip_ZU1lt7jjCwsMJ&index=7&ab_channel=NouvelleTechno
+- https://github.com/NouvelleTechno/PHP-Oriente-Objet/
 
 ---
 
@@ -172,3 +173,8 @@ LESS
 - https://tutorialzine.com/2015/07/learn-less-in-10-minutes-or-less
 
 TWIG
+
+HOST
+
+Passer le host qui pointe vers le dossier public
+php -S localhost:80 -t poo_MVC_25012021/Public
