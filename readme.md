@@ -26,12 +26,12 @@ VALIDATION
 
 Les étapes :
 
-- [ ] Définir l'arborescence de vos dossiers
-- [ ] Définir les routes nécessaire à votre projet
+- [x] Définir l'arborescence de vos dossiers
+- [x] Définir les routes nécessaire à votre projet
 - [x] Mettre en place le .gitignore
 
 - [x] Réaliser les wireframe de toutes vos pages et emails
-- [ ] Réaliser les vues nécessaires pour vos différentes pages
+- [x] Réaliser les vues nécessaires pour vos différentes pages
 - [ ] Réaliser le MJML de vos mails
 - [ ] Réaliser le code pour générer le PDF
 
@@ -40,15 +40,15 @@ Les étapes :
 - [x] Créer le modèle Physique de données
 
 - [x] Installer Composer sous Windows
-- [ ] Avec Composer généré l'Autoload (PSR-4)
-- [ ] Mettre en place le Router et ajouter vos routes
+- [x] Avec Composer généré l'Autoload (PSR-4)
+- [x] Mettre en place le Router et ajouter vos routes
 - [ ] Créer les contrôleurs et méthodes nécessaire à vos routes
 
-- [ ] Installer vos dépendances PHP : AltoRouter, Twig, MJML, MJML-PHP, mPDF
-- [ ] Installer nodejs et npm
-- [ ] Installer vos dépendances front : sass / Less
+- [x] Installer vos dépendances PHP : AltoRouter, Twig, MJML, MJML-PHP, mPDF
+- [x] Installer nodejs et npm
+- [x] Installer vos dépendances front : sass / Less
 
-- [ ] creation (modèles) BDD CRUD
+- [x] creation (modèles) BDD CRUD
 - [ ] Pour chaque méthodes définir les variables nécessaires à la vue
 
 ---
