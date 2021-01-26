@@ -1,1 +1,3 @@
-gestion des cards pour l'accueil 
+<?php
+// gestion des cards pour l'accueil 
+
