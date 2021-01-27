@@ -115,6 +115,7 @@ TECHNOLOGIES
 
 LIENS UTILES :
 
+- https://www.youtube.com/watch?v=54Km7DQjXLk&list=PLnklsuFp-quSzFDZ0F_dAKGlqOQGOdD2a&ab_channel=JonathanRichard
 - https://online.visual-paradigm.com/fr/
 - https://getbootstrap.com/
 - https://codepen.io/
